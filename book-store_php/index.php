@@ -32,7 +32,7 @@
           </div>
           <div class="navbar-collapse collapse">
             <ul class="nav navbar-nav">
-<<<<<<< HEAD
+
               <li class="active"><a href="home.php">About-Us</a></li>
               <li><a href="#">Home</a></li>
              <!-- <li><a href="#">Link</a></li> -->
@@ -40,40 +40,39 @@
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Categories <span class="caret"></span></a>
                 <ul class="dropdown-menu" role="menu">
                   <li><a href="#">Arts</a></li>
-=======
-              <li class="active"><a href="home.php">Dashboard</a></li>
+
+         <!--     <li class="active"><a href="home.php">Dashboard</a></li>
               <li><a href="#">About us</a></li>
               <li><a href="#">Home</a></li>
               <li class="dropdown">
-                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Categires <span class="caret"></span></a>
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Categires
+                    <span class="caret"></span></a>
                 <ul class="dropdown-menu" role="menu">
-                 <li><a href="#">Arts</a></li>
->>>>>>> origin
+                 <li><a href="#">Arts</a></li> -->
+
                   <li><a href="#">Children</a></li>
                   <li><a href="#">Life</a></li>
                    <li><a href="#">Literate</a></li>
                      <li><a href="#">Social Science</a></li>
                      <li><a href="#">Technology</a></li>
-                  <li class="divider"></li>
+                  
                 <!--  <li class="dropdown-header">Nav header</li>
                   <li><a href="#">Separated link</a></li>
                   <li><a href="#">One more separated link</a></li> -->
                 </ul>
               </li>
+                    
               <li> <input type="text" style="width:300px; left: 20px; height:35px; position:relative; top:7px;" name="q" autocomplete="off"/></li>
     		  <li>	<input type="submit" style="height:35px; left: 23px; position:relative; top:7px;" value="Search" /></li>
             </ul>
             <ul class="nav navbar-nav navbar-right">
-<<<<<<< HEAD
+
               <li class="active"><a href="Contact.php">Contact</a></li>
                 
               <li><a href="Login.php">Login</a></li>
               <li><a href="Registraction.php">Registraction</a></li>
-=======
-              <li class="active"><a href="./">Default</a></li>
-              <li><a href="../navbar-static-top/">Login</a></li>
-              <li><a href="../navbar-fixed-top/">Registraction</a></li>
->>>>>>> origin
+             
+
             </ul>
           </div><!--/.nav-collapse -->
         </div><!--/.container-fluid -->
