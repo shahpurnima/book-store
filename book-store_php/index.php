@@ -33,14 +33,17 @@
           <div class="navbar-collapse collapse">
             <ul class="nav navbar-nav">
               <li class="active"><a href="home.php">Dashboard</a></li>
-              <li><a href="#">Link</a></li>
-              <li><a href="#">Link</a></li>
+              <li><a href="#">About us</a></li>
+              <li><a href="#">Home</a></li>
               <li class="dropdown">
-                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown <span class="caret"></span></a>
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Categires <span class="caret"></span></a>
                 <ul class="dropdown-menu" role="menu">
-                  <li><a href="#">Action</a></li>
-                  <li><a href="#">Another action</a></li>
-                  <li><a href="#">Something else here</a></li>
+                 <li><a href="#">Arts</a></li>
+                  <li><a href="#">Children</a></li>
+                  <li><a href="#">Life</a></li>
+                   <li><a href="#">Literate</a></li>
+                     <li><a href="#">Social Science</a></li>
+                     <li><a href="#">Technology</a></li>
                   <li class="divider"></li>
                   <li class="dropdown-header">Nav header</li>
                   <li><a href="#">Separated link</a></li>
@@ -52,8 +55,8 @@
             </ul>
             <ul class="nav navbar-nav navbar-right">
               <li class="active"><a href="./">Default</a></li>
-              <li><a href="../navbar-static-top/">Static top</a></li>
-              <li><a href="../navbar-fixed-top/">Fixed top</a></li>
+              <li><a href="../navbar-static-top/">Login</a></li>
+              <li><a href="../navbar-fixed-top/">Registraction</a></li>
             </ul>
           </div><!--/.nav-collapse -->
         </div><!--/.container-fluid -->
